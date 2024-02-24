@@ -1,7 +1,7 @@
 {
-  "name": "clishare",
+  "name": "jagashare",
   "version": "1.0.0",
-  "description": "clishare is used to sent files through terminal to gmail without logging into ones gmail",
+  "description": "jagashare is used to sent files through terminal to gmail without logging into ones gmail",
   "main": "index.js",
   "bin": {
     "jagashare": "app.js"
