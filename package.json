@@ -1,6 +1,6 @@
 {
   "name": "jagashare",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "jagashare is used to sent files through terminal to gmail without logging into ones gmail",
   "main": "index.js",
   "bin": {
