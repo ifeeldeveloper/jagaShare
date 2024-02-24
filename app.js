@@ -40,8 +40,8 @@ for(let i = 0 ; i < program.args.length;i++){
 
 const data = {
     gmail : recipientEmail,
-    subject : "File shared through clishare",
-    message : 'This file is sent through clishare. Try it today : npm i -g clishare',
+    subject : "File shared through jagashare",
+    message : 'This file is sent through jagashare. Try it today : npm i -g jagashare',
     files
 }
 
