@@ -1,6 +1,6 @@
 {
   "name": "jagashare",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "jagashare is used to sent files through terminal to gmail without logging into ones gmail",
   "main": "index.js",
   "bin": {
@@ -18,7 +18,10 @@
   "keywords": [
     "sharefilefromterminal",
     "nepaliterminalfilesharing",
-    "filesharingusingcommander"
+    "filesharingusingcommander",
+    "terminalmailing",
+    "mailwithoutusingyourgmail",
+    "anonymousmailing"
   ],
   "dependencies": {
     "commander": "^12.0.0",
